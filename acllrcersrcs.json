@@ -1,0 +1,52 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Extended Library Hours During Finals Week",
+            "excerpt": "To support students during finals, all library branches will extend operating hours from December 15-21.",
+            "content": "<p>In response to student needs during the final examination period, Aldersgate College Digital Library is pleased to announce extended operating hours across all library branches.</p>\n                     <p><strong>Extended Hours Schedule:</strong></p>\n                     <ul>\n                         <li><strong>Main Library:</strong> 7:00 AM - 10:00 PM (Regular: 7:30 AM - 8:00 PM)</li>\n                         <li><strong>Graduate Studies Library:</strong> 8:00 AM - 9:00 PM (Regular: 8:00 AM - 7:00 PM)</li>\n                         <li><strong>Divinity Library:</strong> 8:00 AM - 8:00 PM (Regular: 8:00 AM - 6:00 PM)</li>\n                     </ul>\n                     <p><strong>Special Services Available:</strong></p>\n                     <ul>\n                         <li>Extended borrowing limits for course materials</li>\n                         <li>Quiet study zones will be strictly enforced</li>\n                         <li>Complimentary coffee and snacks from 7:00 PM onwards</li>\n                         <li>24/7 digital resources remain accessible online</li>\n                     </ul>\n                     <p>These extended hours will be in effect from <strong>December 15 to December 21, 2024</strong>. Regular library hours will resume on December 22, 2024.</p>\n                     <p>For any inquiries, please contact the library help desk at *** or email library@aldersgate.edu.ph</p>",
+            "category": "announcement",
+            "category_name": "Announcement",
+            "date": "December 10, 2024",
+            "read_time": "3 min read",
+            "author": "Charline G. Barut, RL",
+            "author_position": "Chief Librarian",
+            "image": "https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "tags": ["Library Hours", "Finals Week", "Student Support", "Extended Hours", "Academic Support"],
+            "views": 1250,
+            "likes": 89
+        },
+        {
+            "id": 2,
+            "title": "Advanced Research Workshop Series",
+            "excerpt": "Join our workshop series on advanced research methodologies and academic writing. Limited slots available.",
+            "content": "<p>The Aldersgate College Digital Library is excited to announce a comprehensive workshop series designed to enhance research skills and academic writing capabilities for students and faculty.</p>\n                     <h4>Workshop Schedule & Topics:</h4>\n                     <ul>\n                         <li><strong>Session 1 (Dec 15):</strong> Advanced Database Searching Techniques</li>\n                         <li><strong>Session 2 (Dec 17):</strong> Citation Management with Zotero & Mendeley</li>\n                         <li><strong>Session 3 (Dec 19):</strong> Academic Writing & Publishing Strategies</li>\n                         <li><strong>Session 4 (Dec 21):</strong> Research Data Management</li>\n                     </ul>\n                     <p><strong>Workshop Details:</strong></p>\n                     <ul>\n                         <li><strong>Time:</strong> 2:00 PM - 4:00 PM (Each Session)</li>\n                         <li><strong>Venue:</strong> Library Conference Room, 3rd Floor, Main Library</li>\n                         <li><strong>Facilitators:</strong> Library Research Specialists & Faculty Partners</li>\n                         <li><strong>Registration:</strong> Required (Limited to 30 participants per session)</li>\n                     </ul>\n                     <p>These workshops are free for all Aldersgate College students and faculty. Certificate of participation will be provided for those who complete all four sessions.</p>\n                     <p>To register, visit the library help desk or email library@aldersgate.edu.ph with your name, student/faculty ID, and preferred session(s).</p>",
+            "category": "event",
+            "category_name": "Event",
+            "date": "December 5, 2024",
+            "read_time": "4 min read",
+            "author": "Sheila Marie D. Mayubba, RL",
+            "author_position": "Basic Education Librarian",
+            "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "tags": ["Workshop", "Research", "Training", "Academic Writing", "Skill Development"],
+            "views": 890,
+            "likes": 64
+        },
+        {
+            "id": 3,
+            "title": "500+ New E-books Added to Collection",
+            "excerpt": "We've expanded our digital collection with over 500 new academic e-books across various disciplines.",
+            "content": "<p>The Aldersgate College Digital Library has significantly expanded its digital collection with the addition of over 500 new academic e-books. This major acquisition enhances our commitment to providing comprehensive digital resources to support teaching, learning, and research.</p>\n                     <h4>New Collection Highlights:</h4>\n                     <ul>\n                         <li><strong>Business & Economics:</strong> 120 new titles including the latest editions of management and economics textbooks</li>\n                         <li><strong>Computer Science & IT:</strong> 95 new titles covering emerging technologies, programming, and cybersecurity</li>\n                         <li><strong>Health Sciences:</strong> 85 new titles in nursing, medicine, and public health</li>\n                         <li><strong>Education:</strong> 70 new titles on teaching methodologies and educational research</li>\n                         <li><strong>Engineering:</strong> 60 new technical manuals and engineering textbooks</li>\n                         <li><strong>General Collection:</strong> 70 new titles across various disciplines</li>\n                     </ul>\n                     <p><strong>Access Information:</strong></p>\n                     <ul>\n                         <li>All new e-books are accessible 24/7 through the Digital Library portal</li>\n                         <li>Multiple users can access the same e-book simultaneously</li>\n                         <li>Available for download on personal devices (7-day loan period)</li>\n                         <li>Accessible both on-campus and off-campus via institutional login</li>\n                     </ul>\n                     <p>To browse the new collection, visit our Digital Library portal and search by \"New Arrivals\" or use the subject filters. Faculty members are encouraged to review these new resources for potential course adoption.</p>\n                     <p>For assistance with accessing e-books, contact the E-Library staff at the library help desk or email elearning@aldersgate.edu.ph</p>",
+            "category": "resource",
+            "category_name": "New Resource",
+            "date": "November 28, 2024",
+            "read_time": "5 min read",
+            "author": "Jestonie A. Maraggay, RL",
+            "author_position": "Part-Time Cataloger",
+            "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80",
+            "tags": ["E-books", "Digital Collection", "Acquisition", "New Resources", "Online Access"],
+            "views": 1560,
+            "likes": 102
+        }
+    ]
+}
