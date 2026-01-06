@@ -234,6 +234,132 @@
       ],
       "views": 621,
       "likes": 78
+    },
+    {
+      "id": 12,
+      "title": "Blessed Beginnings: 40 New Computers for the E-Library",
+      "excerpt": "Aldersgate College celebrates a new era of digital learning with the blessing of 40 new computers for the e-Library, led by Pastor Jomar Pastores.",
+      "content": "<p>A momentous day for Aldersgate College Inc. as we celebrate the blessing of 40 new computers for our e-Library! This milestone, led by Pastor Jomar Pastores, marks a new era of digital learning and academic excellence.</p><p>May these resources empower our students and faculty in their pursuit of knowledge and innovation.</p>",
+      "category": "announcement",
+      "category_name": "Announcements",
+      "date": "April 4, 2025",
+      "read_time": "1 min read",
+      "author": "ACLLRC",
+      "author_position": "Library Team",
+      "image": "assets/img/blog/Post12/post12.jpg",
+      "tags": [
+        "E-Library",
+        "Technology Upgrade",
+        "Digital Learning",
+        "Computer Lab",
+        "Academic Resources"
+      ],
+      "views": 275,
+      "likes": 48
+    },
+    {
+      "id": 13,
+      "title": "Looking for Library Working Scholars - Apply Now!",
+      "excerpt": "Aldersgate College is looking for dedicated students to join its Library Working Scholars Program. Gain valuable experience and support your education.",
+      "content": "<p><strong>ALDERSGATE COLLEGE, INC</strong><br>BRIGGS ST., BRGY. QUISINO, SOLANO, NUEVA VIZCAYA, PHILIPPINES 3709</p><h3>WE ARE LOOKING FOR LIBRARY WORKING SCHOLARS</h3><p>Are you a dedicated and hardworking student looking for an opportunity to support your education?</p><p>Join our Scholarship Program and enjoy meaningful benefits while gaining valuable experience!</p><p><strong>APPLY NOW!</strong></p><p>For more information, please see Ma'am Charline Barut at the Professional Library.</p>",
+      "category": "announcement",
+      "category_name": "Announcements",
+      "date": "August 2, 2025",
+      "read_time": "2 min read",
+      "author": "ACLLRC",
+      "author_position": "Library Team",
+      "image": "assets/img/blog/post13.jpg",
+      "tags": [
+        "Scholarship",
+        "Student Employment",
+        "Library Jobs",
+        "Financial Aid",
+        "Campus Opportunity"
+      ],
+      "views": 410,
+      "likes": 65
+    },
+    {
+      "id": 14,
+      "title": "Happy Teachers Day!",
+      "excerpt": "A celebration and heartfelt thank you to all educators for their endless dedication, patience, and passion that shapes lives beyond the classroom.",
+      "content": "<p>To the incredible educators who inspire, shape, and guide us, today we celebrate YOU. Thank you for your endless dedication, patience, and passion for teaching. You not only impart knowledge but also instill the values of kindness, curiosity, and perseverance. Your impact goes beyond the classroom, and we are forever grateful for the wisdom you share and the lives you touch.</p><p>May your day be filled with love, appreciation, and the recognition you truly deserve. Here's to the teachers who make the world a better place, one lesson at a time!</p><h3>HAPPY TEACHERS DAY!</h3>",
+      "category": "announcement",
+      "category_name": "Announcements",
+      "date": "October 5, 2025",
+      "read_time": "1 min read",
+      "author": "ACLLRC",
+      "author_position": "Library Team",
+      "image": "assets/img/blog/post14.jpg",
+      "tags": ["Teachers Day", "Appreciation", "Educators", "Thank You"],
+      "views": 890,
+      "likes": 120
+    },
+    {
+      "id": 15,
+      "title": "The RRL Hunt Made Easier: Useful Websites for Your Research",
+      "excerpt": "Finding the perfect source for your Review of Related Literature (RRL) just got easier with this curated list of local and international academic websites and databases.",
+      "content": "<p>We know the RRL hunt can be tough, but finding that perfect source just got a whole lot easier! Here is the list of useful websites:</p><h4>International & General Resources</h4><ol><li><strong>Google Scholar</strong></li><li><strong>Educational Resources Information Center (ERIC)</strong></li><li><strong>Virtual Learning Resources Center (VLRC)</strong></li></ol><h4>Local (Philippine) Resources</h4><ol><li><strong>Philippine Ejournal</strong></li><li><strong>Philippine Journal of Linguistics</strong></li><li><strong>National Library of the Philippines</strong></li><li><strong>Philippine Social Science Journal</strong></li><li><strong>Philippine Education Research Journal</strong></li></ol><p>Which one is your favorite discovery tool? Let us know!</p>",
+      "category": "resource",
+      "category_name": "New Resources",
+      "date": "December 5, 2025",
+      "read_time": "2 min read",
+      "author": "ACLLRC",
+      "author_position": "Library Team",
+      "image": "assets/img/blog/post15.jpg",
+      "tags": [
+        "Research Tools",
+        "RRL",
+        "Academic Databases",
+        "Online Resources",
+        "Philippine Journals"
+      ],
+      "views": 720,
+      "likes": 95
+    },
+    {
+      "id": 16,
+      "title": "Mabuhay ang Kaalaman! Free Filipiniana Research Resources",
+      "excerpt": "Discover a curated list of excellent free websites and digital libraries for conducting research on Filipino culture, history, socioeconomics, and science.",
+      "content": "<p><strong>Mabuhay ang Kaalaman!</strong></p><p>Happy to Share FREE Filipiniana Resources! Here is the list of useful websites:</p><ol><li><strong>Filipinas Heritage Library</strong></li><li><strong>Socioeconomic Research Portal for the Philippines</strong></li><li><strong>Commission on Human Rights Library</strong></li><li><strong>DOST PCAARRD eLibrary</strong></li><li><strong>Southeast Asia Digital Library</strong></li><li><strong>SEAFDEC/AQD Repository</strong></li><li><strong>ADB Asian Development Bank</strong></li></ol><p>Which Filipiniana topic are you researching next? Let us know!</p>",
+      "category": "resource",
+      "category_name": "New Resources",
+      "date": "December 5, 2025",
+      "read_time": "2 min read",
+      "author": "ACLLRC",
+      "author_position": "Library Team",
+      "image": "assets/img/blog/post16.jpg",
+      "tags": [
+        "Filipiniana",
+        "Research",
+        "Free Resources",
+        "Digital Libraries",
+        "Philippine Studies"
+      ],
+      "views": 680,
+      "likes": 88
+    },
+    {
+      "id": 17,
+      "title": "Institutional Book Fair 2025: A Celebration of National Book Week",
+      "excerpt": "The library successfully held a three-day Institutional Book Fair from December 3–5, 2025, celebrating National Book Week and promoting reading, literacy, and lifelong learning.",
+      "content": "<p>In celebration of National Book Week 2025, with the theme “Reading is the bridge to a future full of hope,” the library successfully organized an Institutional Book Fair held from December 3–5, 2025. This event forms part of our continuous advocacy to promote reading, literacy, and lifelong learning among our students, faculty, and staff.</p>",
+      "category": "event",
+      "category_name": "Events",
+      "date": "December 8, 2025",
+      "read_time": "1 min read",
+      "author": "ACLLRC",
+      "author_position": "Library Team",
+      "image": "assets/img/blog/Post17/post17.jpg",
+      "tags": [
+        "National Book Week",
+        "Book Fair",
+        "Literacy",
+        "Reading Advocacy",
+        "Event"
+      ],
+      "views": 550,
+      "likes": 72
     }
   ]
 }
